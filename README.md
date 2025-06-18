@@ -1,16 +1,47 @@
-## Hi there 👋
+# Nagisa Win! 👋
 
-<!--
-**nagisa-win/nagisa-win** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AnyScript Engineer** | Frontend Developer
 
-Here are some ideas to get you started:
+普普通通前端开发...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fryzenx.com)](https://RyzenX.com)
+[![BiliBili](https://img.shields.io/badge/BiliBili-哔哩哔哩-00A1D6?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/275563463)
+
+---
+
+## 🛠️ Languages
+- 💻 **TypeScript**
+- 💻 **JavaScript**
+- 💻 **HTML**
+- 💻 **CSS**
+- 💻 **LESS**
+- 💻 **Python**
+
+
+---
+## 📖 Latest Blog posts
+
+[RyzenX](https://ryzenx.com) - Hosted on Notion.so
+[V88 to me](https://v88to.me) - Hosted on Github Pages
+
+Latest Bilibili Posts:
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+---
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+---
+
+## 📊 GitHub Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=nagisa-win&show_icons=true&theme=radical)
+
+## 🐍 GitHub Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nagisa-win/nagisa-win/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nagisa-win/nagisa-win/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nagisa-win/nagisa-win/output/github-contribution-grid-snake.svg">
+</picture>
