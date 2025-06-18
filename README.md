@@ -26,6 +26,45 @@
 
 ---
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                8 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+🌆 Daytime                25 commits          █████████████░░░░░░░░░░░░   52.08 % 
+🌃 Evening                12 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+🌙 Night                  3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               7 repos             ██████████████████░░░░░░░   70.00 % 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Markdown                 1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+```
+
+
+
 
 <!--END_SECTION:waka-->
 ---
