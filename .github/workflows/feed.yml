@@ -7,16 +7,16 @@ permissions:
   contents: write # To write the generated contents to the readme
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://rsshub.app/bilibili/user/dynamic/275563463"
+  # update-readme-with-blog:
+  #   name: Update this repo's README with latest blog posts
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - name: Checkout
+  #       uses: actions/checkout@v4
+  #     - name: Pull in dev.to posts
+  #       uses: gautamkrishnar/blog-post-workflow@v1
+  #       with:
+  #         feed_list: "https://rsshub.app/bilibili/user/dynamic/275563463"
 
   waka-time:
     name: Update-wakatime
