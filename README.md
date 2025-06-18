@@ -24,12 +24,6 @@
 [RyzenX](https://ryzenx.com) - Hosted on Notion.so
 [V88 to me](https://v88to.me) - Hosted on Github Pages
 
-Latest Bilibili Posts:
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
 ---
 <!--START_SECTION:waka-->
 
