@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Column</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+<body>
+    <!-- 两栏布局 -->
+    <div class="box-2">
+        <div class="left">左</div>
+        <div class="right">右</div>
+    </div>
+    <style>
+        .box-2 {
+            overflow: hidden;
+
+            .left {
+                float: left;
+                width: 200px;
+                background-color: gray;
+                height: 400px;
+            }
+
+            .right {
+                margin-left: 200px;
+                width: 200px;
+                background-color: lightblue;
+                height: 400px;
+            }
+        }
+    </style>
+
+    <div class="box-2-flex">
+        <div class="left">左</div>
+        <div class="right">右</div>
+    </div>
+    <style>
+        .box-2-flex {
+            display: flex;
+            width: 400px;
+
+            .left {
+                width: 200px;
+                background-color: gray;
+            }
+
+            .right {
+                flex: 1;
+                background-color: lightblue;
+                height: 400px;
+            }
+        }
+    </style>
+</body>
+</html>

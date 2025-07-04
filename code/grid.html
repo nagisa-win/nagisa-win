@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>3x3 Grid Layout</title>
+        <style>
+            /* 方法1: CSS Grid */
+            .grid-container {
+                display: grid;
+                grid-template-columns: repeat(3, 1fr);
+                grid-template-rows: repeat(3, 100px);
+                gap: 10px;
+                width: 330px;
+                margin-bottom: 30px;
+            }
+            .grid-item {
+                background-color: #4caf50;
+                color: white;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                font-size: 24px;
+                border-radius: 5px;
+            }
+        </style>
+        <style>
+            /* 方法2: Flexbox */
+            .flex-container {
+                display: flex;
+                flex-wrap: wrap;
+                width: 330px;
+                gap: 10px;
+                margin-bottom: 30px;
+            }
+            .flex-item {
+                width: 100px;
+                height: 100px;
+                background-color: #2196f3;
+                color: white;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                font-size: 24px;
+                border-radius: 5px;
+            }
+
+            /* 方法3: Float */
+            .float-container {
+                width: 330px;
+                margin-bottom: 30px;
+            }
+            .float-item {
+                float: left;
+                width: 100px;
+                height: 100px;
+                background-color: #ff5722;
+                color: white;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                font-size: 24px;
+                border-radius: 5px;
+                margin-right: 10px;
+                margin-bottom: 10px;
+            }
+            .float-item:nth-child(3n) {
+                margin-right: 0;
+            }
+            .clearfix::after {
+                content: '';
+                display: table;
+                clear: both;
+            }
+        </style>
+    </head>
+    <body>
+        <h2>CSS Grid 实现</h2>
+        <div class="grid-container">
+            <div class="grid-item">1</div>
+            <div class="grid-item">2</div>
+            <div class="grid-item">3</div>
+            <div class="grid-item">4</div>
+            <div class="grid-item">5</div>
+            <div class="grid-item">6</div>
+            <div class="grid-item">7</div>
+            <div class="grid-item">8</div>
+            <div class="grid-item">9</div>
+        </div>
+
+        <h2>Flexbox 实现</h2>
+        <div class="flex-container">
+            <div class="flex-item">1</div>
+            <div class="flex-item">2</div>
+            <div class="flex-item">3</div>
+            <div class="flex-item">4</div>
+            <div class="flex-item">5</div>
+            <div class="flex-item">6</div>
+            <div class="flex-item">7</div>
+            <div class="flex-item">8</div>
+            <div class="flex-item">9</div>
+        </div>
+
+        <h2>Float 实现</h2>
+        <div class="float-container clearfix">
+            <div class="float-item">1</div>
+            <div class="float-item">2</div>
+            <div class="float-item">3</div>
+            <div class="float-item">4</div>
+            <div class="float-item">5</div>
+            <div class="float-item">6</div>
+            <div class="float-item">7</div>
+            <div class="float-item">8</div>
+            <div class="float-item">9</div>
+        </div>
+    </body>
+</html>
