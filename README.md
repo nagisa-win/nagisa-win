@@ -26,35 +26,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-37.4%20thousand%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                25 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
-🌆 Daytime                33 commits          ███████████░░░░░░░░░░░░░░   44.00 % 
-🌃 Evening                14 commits          █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-🌙 Night                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-37.2%20thousand%20lines%20of%20code-blue)
 
 **I Mostly Code in JavaScript** 
 
