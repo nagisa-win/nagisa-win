@@ -26,15 +26,15 @@ Blog -> [![Website](https://img.shields.io/website?url=https%3A%2F%2Fryzenx.com)
 
 ---
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50.40%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-52.12%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                22 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-🌆 Daytime                44 commits          ████████████░░░░░░░░░░░░░   50.00 % 
-🌃 Evening                19 commits          █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
-🌙 Night                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+🌞 Morning                22 commits          ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+🌆 Daytime                44 commits          ████████████░░░░░░░░░░░░░   48.89 % 
+🌃 Evening                21 commits          ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+🌙 Night                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
 
@@ -59,11 +59,11 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               10 repos            ████████████████░░░░░░░░░   62.50 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+JavaScript               11 repos            ████████████████░░░░░░░░░   64.71 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
