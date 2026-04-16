@@ -26,15 +26,15 @@ Blog -> [![Website](https://img.shields.io/website?url=https%3A%2F%2Fryzenx.com)
 
 ---
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65.98%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65.97%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                22 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-🌆 Daytime                52 commits          ████████████░░░░░░░░░░░░░   47.27 % 
-🌃 Evening                33 commits          ████████░░░░░░░░░░░░░░░░░   30.00 % 
-🌙 Night                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+🌞 Morning                22 commits          █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+🌆 Daytime                48 commits          ███████████░░░░░░░░░░░░░░   45.28 % 
+🌃 Evening                33 commits          ████████░░░░░░░░░░░░░░░░░   31.13 % 
+🌙 Night                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 ```
 
 
