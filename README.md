@@ -31,10 +31,10 @@ Blog -> [![Website](https://img.shields.io/website?url=https%3A%2F%2Fryzenx.com)
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                22 commits          ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-🌆 Daytime                40 commits          ██████████░░░░░░░░░░░░░░░   40.40 % 
-🌃 Evening                34 commits          █████████░░░░░░░░░░░░░░░░   34.34 % 
-🌙 Night                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+🌞 Morning                22 commits          ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+🌆 Daytime                41 commits          ██████████░░░░░░░░░░░░░░░   41.00 % 
+🌃 Evening                34 commits          ████████░░░░░░░░░░░░░░░░░   34.00 % 
+🌙 Night                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 ```
 
 
