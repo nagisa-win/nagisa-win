@@ -28,6 +28,34 @@ Blog -> [![Website](https://img.shields.io/website?url=https%3A%2F%2Fryzenx.com)
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-66.22%20thousand%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                22 commits          ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+🌆 Daytime                41 commits          ██████████░░░░░░░░░░░░░░░   41.00 % 
+🌃 Evening                34 commits          ████████░░░░░░░░░░░░░░░░░   34.00 % 
+🌙 Night                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
