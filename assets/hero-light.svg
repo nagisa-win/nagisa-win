@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="t d">
+  <title id="t">Nagisa — Front-end Engineer</title>
+  <desc id="d">Shoreline banner: Nagisa, front-end engineer. TypeScript, Vue, tooling.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e6f7ff"/><stop offset=".55" stop-color="#cfeafb"/><stop offset="1" stop-color="#b6ddf5"/>
+    </linearGradient>
+    <linearGradient id="nm" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#08304a"/><stop offset="1" stop-color="#1571a8"/>
+    </linearGradient>
+    <radialGradient id="gl" cx="80%" cy="30%" r="45%">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".45"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="fs" x="-50%" y="-50%" width="200%" height="200%"><feDropShadow dx="0" dy="0" stdDeviation="1.2" flood-color="#3f9fd0" flood-opacity=".5"/></filter>
+    <clipPath id="clip"><rect width="1200" height="320" rx="18"/></clipPath>
+  </defs>
+  <style>
+    .b { animation: rise linear infinite; }
+    @keyframes rise { from { transform: translate(0, 0); } to { transform: translate(var(--dx), -330px); } }
+    .cur { animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .b, .cur { animation: none; } }
+  </style>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#gl)"/>
+    <path d="M0 268C150 232 300 300 470 262S760 222 900 258s210 20 300-6V320H0Z" fill="#d4ecfd"/>
+    <path d="M0 292C180 262 330 312 540 286s330-34 480-8 130 10 180 0V320H0Z" fill="#e8f5ff"/>
+    <path d="M0 310c220-18 420 12 640 2s380-16 560-2V320H0Z" fill="#f7fcff"/>
+    <g filter="url(#fs)" fill="#ffffff">
+      <circle class="b" cx="1076" cy="300" r="3.6" fill-opacity="0.55" style="--dx:10px;animation-duration:10.5s;animation-delay:-6.2s"/>
+      <circle class="b" cx="454" cy="250" r="3.6" fill-opacity="0.47" style="--dx:33px;animation-duration:12.3s;animation-delay:-0.9s"/>
+      <circle class="b" cx="354" cy="212" r="1.6" fill-opacity="0.85" style="--dx:-32px;animation-duration:13.8s;animation-delay:-9.0s"/>
+      <circle class="b" cx="64" cy="282" r="1.2" fill-opacity="0.8" style="--dx:28px;animation-duration:11.9s;animation-delay:-8.1s"/>
+      <circle class="b" cx="235" cy="192" r="1.2" fill-opacity="0.8" style="--dx:-25px;animation-duration:15.7s;animation-delay:-1.5s"/>
+      <circle class="b" cx="985" cy="262" r="1.6" fill-opacity="0.85" style="--dx:-21px;animation-duration:20.7s;animation-delay:-1.3s"/>
+      <circle class="b" cx="593" cy="312" r="2.0" fill-opacity="0.5" style="--dx:13px;animation-duration:11.7s;animation-delay:-9.7s"/>
+      <circle class="b" cx="667" cy="232" r="3.6" fill-opacity="0.5" style="--dx:44px;animation-duration:16.8s;animation-delay:-9.0s"/>
+      <circle class="b" cx="584" cy="272" r="3.6" fill-opacity="0.62" style="--dx:-16px;animation-duration:9.8s;animation-delay:-3.0s"/>
+      <circle class="b" cx="808" cy="202" r="2.0" fill-opacity="0.8" style="--dx:-13px;animation-duration:18.2s;animation-delay:-5.6s"/>
+      <circle class="b" cx="1096" cy="292" r="3.0" fill-opacity="0.42" style="--dx:14px;animation-duration:13.4s;animation-delay:-4.7s"/>
+      <circle class="b" cx="380" cy="242" r="3.0" fill-opacity="0.62" style="--dx:4px;animation-duration:9.8s;animation-delay:-9.3s"/>
+      <circle class="b" cx="742" cy="218" r="1.6" fill-opacity="0.8" style="--dx:22px;animation-duration:14.9s;animation-delay:-7.4s"/>
+      <circle class="b" cx="140" cy="306" r="2.0" fill-opacity="0.72" style="--dx:-18px;animation-duration:17.1s;animation-delay:-2.2s"/>
+    </g>
+    <text x="72" y="66" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#4d6f91"><tspan fill="#0b7f8a">nagisa@win</tspan>:~$ whoami<tspan class="cur" fill="#0b7f8a"> ▍</tspan></text>
+    <text x="68" y="152" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="92" font-weight="800" letter-spacing="-2" fill="url(#nm)">Nagisa</text>
+    <text x="72" y="200" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="27" font-weight="600" fill="#14405f">Front-end Engineer  ·  TypeScript  ·  Vue</text>
+    <g transform="translate(72 232)"><rect width="122" height="38" rx="19" fill="#ffffff" fill-opacity=".65" stroke="#8fc0df"/><text x="61" y="25" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" font-weight="600" fill="#0e3f5e">TypeScript</text></g><g transform="translate(206 232)"><rect width="76" height="38" rx="19" fill="#ffffff" fill-opacity=".65" stroke="#8fc0df"/><text x="38" y="25" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" font-weight="600" fill="#0e3f5e">Vue</text></g><g transform="translate(294 232)"><rect width="84" height="38" rx="19" fill="#ffffff" fill-opacity=".65" stroke="#8fc0df"/><text x="42" y="25" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" font-weight="600" fill="#0e3f5e">Node</text></g><g transform="translate(390 232)"><rect width="76" height="38" rx="19" fill="#ffffff" fill-opacity=".65" stroke="#0b7f8a" stroke-opacity=".7"/><text x="38" y="25" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" font-weight="600" fill="#0b7f8a">Web</text></g><g transform="translate(478 232)"><rect width="92" height="38" rx="19" fill="#ffffff" fill-opacity=".65" stroke="#0b7f8a" stroke-opacity=".7"/><text x="46" y="25" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" font-weight="600" fill="#0b7f8a">Tools</text></g>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="319" rx="17.5" fill="none" stroke="#a9cfea"/>
+</svg>
