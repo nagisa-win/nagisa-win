@@ -19,7 +19,7 @@
 - 🧰 Collecting small tools that each kill one annoying thing: [web-router](https://github.com/nagisa-win/web-router), [mermaid-render](https://github.com/nagisa-win/mermaid-render), [cli-tools](https://github.com/nagisa-win/cli-tools)
 - 🤖 Writing agent skills the way other people write shell aliases: [skkill](https://github.com/nagisa-win/skkill), [fanzha-skill](https://github.com/nagisa-win/fanzha-skill)
 - 📱 Tinkering on rooted Android and macOS — LSPosed plugins, OTA archives, a floating gold-price widget
-- ✍️ Notes and writeups at [RyzenX](https://ryzenx.com) and [V88](https://v.8o.nz)
+- ✍️ Notes and writeups at [RyzenX](https://ryzenx.com) and [v.8o.nz](https://v.8o.nz)
 
 ## 🚀 Projects
 
@@ -105,7 +105,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [RyzenX](https://ryzenx.com) — notes, hosted on Notion
-- [V88 to me](https://v.8o.nz) — notes, hosted on GitHub Pages
+- [v.8o.nz](https://v.8o.nz) — notes, hosted on GitHub Pages
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
