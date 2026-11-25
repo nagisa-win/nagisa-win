@@ -8,7 +8,7 @@
 <br>
 
 [![Blog](https://img.shields.io/badge/Blog-RyzenX.com-4C8DFF?style=for-the-badge&logo=rss&logoColor=white)](https://ryzenx.com)
-[![Blog](https://img.shields.io/badge/Blog-v88to.me-6E56CF?style=for-the-badge&logo=githubpages&logoColor=white)](https://v88to.me)
+[![Blog](https://img.shields.io/badge/Blog-v.8o.nz-6E56CF?style=for-the-badge&logo=githubpages&logoColor=white)](https://v.8o.nz)
 [![Followers](https://img.shields.io/github/followers/nagisa-win?style=for-the-badge&logo=github&label=Followers&color=24292F)](https://github.com/nagisa-win?tab=followers)
 
 </div>
@@ -19,7 +19,7 @@
 - 🧰 Collecting small tools that each kill one annoying thing: [web-router](https://github.com/nagisa-win/web-router), [mermaid-render](https://github.com/nagisa-win/mermaid-render), [cli-tools](https://github.com/nagisa-win/cli-tools)
 - 🤖 Writing agent skills the way other people write shell aliases: [skkill](https://github.com/nagisa-win/skkill), [fanzha-skill](https://github.com/nagisa-win/fanzha-skill)
 - 📱 Tinkering on rooted Android and macOS — LSPosed plugins, OTA archives, a floating gold-price widget
-- ✍️ Notes and writeups at [RyzenX](https://ryzenx.com) and [V88](https://v88to.me)
+- ✍️ Notes and writeups at [RyzenX](https://ryzenx.com) and [V88](https://v.8o.nz)
 
 ## 🚀 Projects
 
@@ -105,7 +105,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [RyzenX](https://ryzenx.com) — notes, hosted on Notion
-- [V88 to me](https://v88to.me) — notes, hosted on GitHub Pages
+- [V88 to me](https://v.8o.nz) — notes, hosted on GitHub Pages
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
