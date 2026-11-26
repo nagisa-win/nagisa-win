@@ -8,7 +8,7 @@
 <br>
 
 [![Blog](https://img.shields.io/badge/Blog-RyzenX.com-4C8DFF?style=for-the-badge&logo=rss&logoColor=white)](https://ryzenx.com)
-[![Blog](https://img.shields.io/badge/Blog-v.8o.nz-6E56CF?style=for-the-badge&logo=githubpages&logoColor=white)](https://v.8o.nz)
+[![Observatory](https://img.shields.io/badge/8o.nz-Observatory-6E56CF?style=for-the-badge&logo=cloudflare&logoColor=white)](https://8o.nz)
 [![Followers](https://img.shields.io/github/followers/nagisa-win?style=for-the-badge&logo=github&label=Followers&color=24292F)](https://github.com/nagisa-win?tab=followers)
 
 </div>
@@ -19,12 +19,17 @@
 - 🧰 Collecting small tools that each kill one annoying thing: [web-router](https://github.com/nagisa-win/web-router), [mermaid-render](https://github.com/nagisa-win/mermaid-render), [cli-tools](https://github.com/nagisa-win/cli-tools)
 - 🤖 Writing agent skills the way other people write shell aliases: [skkill](https://github.com/nagisa-win/skkill), [fanzha-skill](https://github.com/nagisa-win/fanzha-skill)
 - 📱 Tinkering on rooted Android and macOS — LSPosed plugins, OTA archives, a floating gold-price widget
-- ✍️ Notes and writeups at [RyzenX](https://ryzenx.com) and [v.8o.nz](https://v.8o.nz)
+- ✍️ Notes and writeups at [RyzenX](https://ryzenx.com), plus a site matrix at [8o.nz](https://8o.nz)
 
 ## 🚀 Projects
 
 <table>
   <tr><th colspan="3" align="left">🧰 Web &amp; Tools</th></tr>
+  <tr>
+    <td><a href="https://8o.nz"><b>8o.nz</b></a></td>
+    <td>Observatory — one portal over the whole site matrix: lab, CLJS learning station, skills and status</td>
+    <td><a href="https://8o.nz">live&nbsp;↗</a></td>
+  </tr>
   <tr>
     <td><a href="https://github.com/nagisa-win/web-router"><b>web-router</b></a></td>
     <td>A small client-side router, no dependencies</td>
@@ -105,7 +110,6 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [RyzenX](https://ryzenx.com) — notes, hosted on Notion
-- [v.8o.nz](https://v.8o.nz) — notes, hosted on GitHub Pages
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
